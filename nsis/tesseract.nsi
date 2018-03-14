@@ -635,8 +635,6 @@ SectionGroup "Additional language data (download)" SecGrp_ALD
     !insertmacro Download_Lang_Data glg
   SectionEnd
   
-  ##### ab hier aktualisiert #####
-  
     Section /o "Greek, Ancient (-1453)" SecLang_glg
     AddSize 2140
     !insertmacro Download_Lang_Data grc
